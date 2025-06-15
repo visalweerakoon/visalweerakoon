@@ -31,12 +31,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/visalweerakoon">
-    <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/visalweerakoon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=radical&hide_border=true"/>
-  </a>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=radical&hide_border=true&langs_count=6" /> 
 </p>
 
 ### 🤝 Connect with Me:
