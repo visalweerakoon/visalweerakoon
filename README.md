@@ -30,36 +30,41 @@
 
 
 <p align="center">
-<span align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&locale=en" alt="visalweerakoon" />
-</span>
-<span align="right">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=merko&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9cacc&custom_title=My%20Code%20Breakdown&langs_count=6)](https://github.com/visalweerakoon)
+<div align="center">
 
+## 📊 GitHub Stats
 
-<svg width="320" height="180" xmlns="http://www.w3.org/2000/svg">
+[![Dineth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinethsiriwardana&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/dinethsiriwardana)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dinethsiriwardana&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 🛠️ Tech Stack
+
+### Most Used Languages (Dynamic)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinethsiriwardana&layout=donut&theme=radical&hide_border=true&langs_count=6)](https://github.com/dinethsiriwardana)
+
+### Language Breakdown (Manual)
+<svg width="100%" height="180" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .lang { font: 600 12px 'Segoe UI', sans-serif; fill: white }
-    .percent { font: 800 14px 'Segoe UI', sans-serif; fill: white }
+    .lang { font: 10px sans-serif; fill: white }
+    .percent { font: bold 12px sans-serif; fill: white }
   </style>
   
-  <!-- C -->
-  <circle cx="60" cy="60" r="40" fill="none" stroke="#A8B9CC" stroke-width="12" stroke-dasharray="49.6 50.4"/>
-  <text x="60" y="55" class="percent" text-anchor="middle">49.6%</text>
-  <text x="60" y="70" class="lang" text-anchor="middle">C</text>
-  
-  <!-- C# -->
-  <circle cx="160" cy="60" r="40" fill="none" stroke="#178600" stroke-width="12" stroke-dasharray="15.2 84.8"/>
-  <text x="160" y="55" class="percent" text-anchor="middle">15.2%</text>
-  <text x="160" y="70" class="lang" text-anchor="middle">C#</text>
-  
   <!-- JavaScript -->
-  <circle cx="260" cy="60" r="40" fill="none" stroke="#F7DF1E" stroke-width="12" stroke-dasharray="14 86"/>
-  <text x="260" y="55" class="percent" text-anchor="middle">14%</text>
-  <text x="260" y="70" class="lang" text-anchor="middle">JS</text>
+  <circle cx="70" cy="50" r="30" fill="none" stroke="#F7DF1E" stroke-width="8" stroke-dasharray="64.08 35.92"/>
+  <text x="70" y="50" class="percent" text-anchor="middle">64.1%</text>
+  <text x="70" y="65" class="lang" text-anchor="middle">JS</text>
+  
+  <!-- PHP -->
+  <circle cx="170" cy="50" r="30" fill="none" stroke="#777BB4" stroke-width="8" stroke-dasharray="9.11 90.89"/>
+  <text x="170" y="50" class="percent" text-anchor="middle">9.1%</text>
+  <text x="170" y="65" class="lang" text-anchor="middle">PHP</text>
+  
+  <!-- Dart -->
+  <circle cx="270" cy="50" r="30" fill="none" stroke="#00B4AB" stroke-width="8" stroke-dasharray="9.42 90.58"/>
+  <text x="270" y="50" class="percent" text-anchor="middle">9.4%</text>
+  <text x="270" y="65" class="lang" text-anchor="middle">Dart</text>
 </svg>
-</span>
 </p>
 ### 🤝 Connect with Me:
 
