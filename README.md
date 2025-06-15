@@ -1,3 +1,5 @@
+<div style="background-color:#f0f8ff; padding:16px; border-radius:8px;">
+
 <h1 align="center">👋 I'm Visal Weerakoon</h1>
 <h3 align="center">I'm a passionate Web Developer and Freelancer, currently an undergraduate at USJP – BICT (Bachelor of Information and Communication Technology). I specialize in WordPress development and Front-End Web Design, and I enjoy working with both the visual and technical sides of the web.</h3>
 
@@ -18,3 +20,5 @@
 <a href="https://linkedin.com/in/visalweerakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="visalweerakoon" height="30" width="40" /></a>
 <a href="https://fb.com/visalweerakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="visalweerakoon" height="30" width="40" /></a>
 </p>
+
+</div>
