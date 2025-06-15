@@ -34,8 +34,30 @@
 
 
 </p>
-### 🛠️ My Tech Stack
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=merko&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9cacc&custom_title=My%20Code%20Breakdown&langs_count=6)](https://github.com/visalweerakoon)
+## 🎯 Language Breakdown
 
+<svg width="320" height="180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .lang { font: 600 12px 'Segoe UI', sans-serif; fill: white }
+    .percent { font: 800 14px 'Segoe UI', sans-serif; fill: white }
+  </style>
+  
+  <!-- C -->
+  <circle cx="60" cy="60" r="40" fill="none" stroke="#A8B9CC" stroke-width="12" stroke-dasharray="49.6 50.4"/>
+  <text x="60" y="55" class="percent" text-anchor="middle">49.6%</text>
+  <text x="60" y="70" class="lang" text-anchor="middle">C</text>
+  
+  <!-- C# -->
+  <circle cx="160" cy="60" r="40" fill="none" stroke="#178600" stroke-width="12" stroke-dasharray="15.2 84.8"/>
+  <text x="160" y="55" class="percent" text-anchor="middle">15.2%</text>
+  <text x="160" y="70" class="lang" text-anchor="middle">C#</text>
+  
+  <!-- JavaScript -->
+  <circle cx="260" cy="60" r="40" fill="none" stroke="#F7DF1E" stroke-width="12" stroke-dasharray="14 86"/>
+  <text x="260" y="55" class="percent" text-anchor="middle">14%</text>
+  <text x="260" y="70" class="lang" text-anchor="middle">JS</text>
+</svg>
 
 
 <svg width="300" height="300" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
