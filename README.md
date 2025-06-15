@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/raw/main/assets/scrolling-icons.svg" width="400" height="200" />
+  <img src="https://github.com/visalweerakoon/visalweerakoon/raw/main/assets/scrolling-icons.svg" width="400" height="200" />
 </p>
 ---
 
