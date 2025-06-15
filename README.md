@@ -29,43 +29,7 @@
 ### 📊 GitHub Stats:
 
 
-<p align="center">
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-[![Dineth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinethsiriwardana&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/dinethsiriwardana)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dinethsiriwardana&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-## 🛠️ Tech Stack
-
-### Most Used Languages (Dynamic)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinethsiriwardana&layout=donut&theme=radical&hide_border=true&langs_count=6)](https://github.com/dinethsiriwardana)
-
-### Language Breakdown (Manual)
-<svg width="100%" height="180" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .lang { font: 10px sans-serif; fill: white }
-    .percent { font: bold 12px sans-serif; fill: white }
-  </style>
-  
-  <!-- JavaScript -->
-  <circle cx="70" cy="50" r="30" fill="none" stroke="#F7DF1E" stroke-width="8" stroke-dasharray="64.08 35.92"/>
-  <text x="70" y="50" class="percent" text-anchor="middle">64.1%</text>
-  <text x="70" y="65" class="lang" text-anchor="middle">JS</text>
-  
-  <!-- PHP -->
-  <circle cx="170" cy="50" r="30" fill="none" stroke="#777BB4" stroke-width="8" stroke-dasharray="9.11 90.89"/>
-  <text x="170" y="50" class="percent" text-anchor="middle">9.1%</text>
-  <text x="170" y="65" class="lang" text-anchor="middle">PHP</text>
-  
-  <!-- Dart -->
-  <circle cx="270" cy="50" r="30" fill="none" stroke="#00B4AB" stroke-width="8" stroke-dasharray="9.42 90.58"/>
-  <text x="270" y="50" class="percent" text-anchor="middle">9.4%</text>
-  <text x="270" y="65" class="lang" text-anchor="middle">Dart</text>
-</svg>
-</p>
 ### 🤝 Connect with Me:
 
 <p align="left">
