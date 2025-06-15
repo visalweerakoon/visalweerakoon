@@ -26,12 +26,22 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-<a align = "justify">
-[![Visal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/visalweerakoon)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=radical&hide_border=true&langs_count=6)](https://github.com/visalweerakoon)
-</p>
+<div align="center">
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    [![Visal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/visalweerakoon)
+  </div>
+  <div>
+    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=radical&hide_border=true&langs_count=6)](https://github.com/visalweerakoon)
+  </div>
+</div>
+
+</div>
+
 ### 🤝 Connect with Me:
 
 <p align="left">
