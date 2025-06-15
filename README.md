@@ -4,10 +4,10 @@
   I'm a passionate Web Developer and Freelancer, currently an undergraduate at USJP – BICT (Bachelor of Information and Communication Technology). I specialize in WordPress development and Front-End Web Design, and I enjoy working with both the visual and technical sides of the web.
 </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/tech-animation.gif" width="400" height="200" alt="Tech Stack Animation"/>
-</p>
 
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/raw/main/assets/scrolling-icons.svg" width="400" height="200" />
+</p>
 ---
 
 ### 🛠 Languages and Tools:
