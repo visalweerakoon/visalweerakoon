@@ -3,7 +3,11 @@
 <h3 align="center">
   I'm a passionate Web Developer and Freelancer, currently an undergraduate at USJP – BICT (Bachelor of Information and Communication Technology). I specialize in WordPress development and Front-End Web Design, and I enjoy working with both the visual and technical sides of the web.
 </h3>
-[▶️ View My Scrolling Icons Animation](https://visalweerakoon.github.io/styleforreadme/)
+</h4>  
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<br/>
 
 
 ### 🛠 Languages and Tools:
