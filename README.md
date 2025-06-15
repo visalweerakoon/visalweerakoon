@@ -3,7 +3,7 @@
 <h3 align="center">
   I'm a passionate Web Developer and Freelancer, currently an undergraduate at USJP – BICT (Bachelor of Information and Communication Technology). I specialize in WordPress development and Front-End Web Design, and I enjoy working with both the visual and technical sides of the web.
 </h3>
-
+---
 ### 🛠 Languages and Tools:
 
 <p align="center">
@@ -29,7 +29,7 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&theme=radical&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=radical&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
----
+
 
 ### 🤝 Connect with Me:
 
