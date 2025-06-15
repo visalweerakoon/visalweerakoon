@@ -30,8 +30,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&locale=en" alt="visalweerakoon" />
+<span align="left">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&locale=en" alt="visalweerakoon" />
+</span>
+<span align="right">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=merko&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9cacc&custom_title=My%20Code%20Breakdown&langs_count=6)](https://github.com/visalweerakoon)
 
 
@@ -56,7 +59,7 @@
   <text x="260" y="55" class="percent" text-anchor="middle">14%</text>
   <text x="260" y="70" class="lang" text-anchor="middle">JS</text>
 </svg>
-
+</span>
 </p>
 ### 🤝 Connect with Me:
 
