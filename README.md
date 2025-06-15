@@ -29,6 +29,8 @@
 ### 📊 GitHub Stats:
 
 
+[![Visal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/visalweerakoon)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=visalweerakoon&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### 🤝 Connect with Me:
 
