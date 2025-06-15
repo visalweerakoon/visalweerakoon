@@ -28,12 +28,30 @@
 
 ### 📊 GitHub Stats:
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&locale=en" alt="visalweerakoon" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+## 🛠️ My Tech Stack
 
+<svg width="300" height="300" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="21" cy="21" r="15.915" fill="transparent" stroke="#444" stroke-width="3"/>
+  
+  <!-- Language segments -->
+  <circle cx="21" cy="21" r="15.915" fill="transparent" stroke="#f34b7d" stroke-width="3" stroke-dasharray="49.61 50.39" stroke-dashoffset="25"/>
+  <circle cx="21" cy="21" r="15.915" fill="transparent" stroke="#178600" stroke-width="3" stroke-dasharray="15.17 84.83" stroke-dashoffset="75.39"/>
+  <circle cx="21" cy="21" r="15.915" fill="transparent" stroke="#f1e05a" stroke-width="3" stroke-dasharray="13.98 86.02" stroke-dashoffset="90.56"/>
+  <circle cx="21" cy="21" r="15.915" fill="transparent" stroke="#f34b7d" stroke-width="3" stroke-dasharray="9.90 90.10" stroke-dashoffset="104.54"/>
+  <circle cx="21" cy="21" r="15.915" fill="transparent" stroke="#3178c6" stroke-width="3" stroke-dasharray="5.79 94.21" stroke-dashoffset="114.44"/>
+  <circle cx="21" cy="21" r="15.915" fill="transparent" stroke="#438eff" stroke-width="3" stroke-dasharray="5.56 94.44" stroke-dashoffset="120.23"/>
+  
+  <!-- Center text -->
+  <text x="21" y="21" font-family="Arial" font-size="4" fill="#fff" text-anchor="middle" dominant-baseline="middle">Languages</text>
+</svg>
+---
 
 ### 🤝 Connect with Me:
 
