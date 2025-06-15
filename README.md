@@ -3,7 +3,14 @@
 <h3 align="center">
   I'm a passionate Web Developer and Freelancer, currently an undergraduate at USJP – BICT (Bachelor of Information and Communication Technology). I specialize in WordPress development and Front-End Web Design, and I enjoy working with both the visual and technical sides of the web.
 </h3>
-[https://visalweerakoon.github.io/styleforreadme/](https://visalweerakoon.github.io/styleforreadme/)
+<iframe 
+  src="https://visalweerakoon.github.io/styleforreadme/" 
+  width="600" 
+  height="120" 
+  frameborder="0" 
+  style="border-radius: 12px; box-shadow: 0 0 15px #0f0; background:#111;" 
+  loading="lazy">
+</iframe>
 
 ### 🛠 Languages and Tools:
 
