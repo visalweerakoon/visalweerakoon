@@ -32,9 +32,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&locale=en" alt="visalweerakoon" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=compact&theme=radical" alt="Top Languages" />
+
 </p>
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
+
+
 
 <svg width="300" height="300" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
   <!-- Background circle -->
