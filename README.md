@@ -1,4 +1,4 @@
-<div style="background-color:#f0f8ff; padding:16px; border-radius:8px;">
+<div style="background-color:#f0f8ff">
 
 <h1 align="center">👋 I'm Visal Weerakoon</h1>
 <h3 align="center">I'm a passionate Web Developer and Freelancer, currently an undergraduate at USJP – BICT (Bachelor of Information and Communication Technology). I specialize in WordPress development and Front-End Web Design, and I enjoy working with both the visual and technical sides of the web.</h3>
