@@ -32,14 +32,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&locale=en" alt="visalweerakoon" />
 
-
-</p>
-## 🚀 My Tech Stack
-
-### Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=merko&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9cacc&custom_title=My%20Code%20Breakdown&langs_count=6)](https://github.com/visalweerakoon)
 
-### Language Breakdown
+
 <svg width="320" height="180" xmlns="http://www.w3.org/2000/svg">
   <style>
     .lang { font: 600 12px 'Segoe UI', sans-serif; fill: white }
@@ -62,6 +57,7 @@
   <text x="260" y="70" class="lang" text-anchor="middle">JS</text>
 </svg>
 
+</p>
 ### 🤝 Connect with Me:
 
 <p align="left">
