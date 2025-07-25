@@ -23,8 +23,8 @@
   <a href="https://www.visualstudio.microsoft.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="Visual Studio" width="50" height="50"/> </a>
   <a href="https://www.visualstudio.microsoft.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="" width="50" height="50"/> </a>
   <a href="https://www.visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" alt="" width="50" height="50"/> </a>
-  <a href="" target="_blank"> <img src=" https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="" width="50" height="50"/> </a>
-  <a href="" target="_blank"> <img src="  https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="" width="50" height="50"/> </a>
+  <a href="" target="_blank"> <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="" width="50" height="50"/> </a>
+  <a href="" target="_blank"> <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="" width="50" height="50"/> </a>
  
   
 
