@@ -21,6 +21,10 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
   <a href="https://www.visualstudio.microsoft.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="Visual Studio" width="50" height="50"/> </a>
+  <a href="https://www.visualstudio.microsoft.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="Visual Studio" width="50" height="50"/> </a>
+  <a href="" target="_blank"> <img src="https://www.flaticon.com/free-icon/sql-server_2772128" alt="Visual Studio" width="50" height="50"/> </a>
+
+
   
 </p>
 
