@@ -44,10 +44,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visalweerakoon&show_icons=true&theme=radical&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visalweerakoon&layout=donut&theme=radical&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" height="180" />
-</p>
+<div align="center">
+  <a href="https://github.com/RResabala2015">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+  </a>
+</div>
 
 
 <br>
